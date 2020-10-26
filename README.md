@@ -40,8 +40,3 @@
     <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobion&theme=vue" />
 </p>
 
-
-
-<h3 align="center"> 
-  <img src="https://profile-counter.glitch.me/pablobion/count.svg" />
-</h3>
