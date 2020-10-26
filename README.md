@@ -11,7 +11,7 @@
 
 <p align="center"><img align="center" align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/><b><em>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
-<h3 align="center">Repositories</h3>
+<h2 align="center">🗃 Repositories</h2>
 
 <p width="100%" align="center">
   <a align="center" href="https://github.com/pablobion/weather-react" title="React Weather"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=weather-react&theme=vue"></a>
@@ -20,7 +20,7 @@
  
 <br><br>
 
-<h3 align="center">🔧 Technologies & Tools</h3>
+<h2 align="center">🔧 Technologies & Tools</h2>
 <br>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->  
@@ -31,8 +31,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
-<br>
-<h1 align="center">📊 My Stats</h1>
+<h2 align="center">📊 My Stats</h2>
 <br><br>
 <p align="center" justify="center" >
     <img  align="center" justify="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=pablobion&show_icons=true&line_height=27&theme=vue"   alt="Martin's GitHub Stats" />
