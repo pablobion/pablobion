@@ -16,12 +16,10 @@
 <p width="100%" align="center">
   <a align="center" href="https://github.com/pablobion/weather-react" title="React Weather"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=weather-react&theme=vue"></a>
   <a align="center" justify="center" href="https://github.com/pablobion/github-explorer" title="github-explorer"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=github-explorer&theme=vue"></a>
-</p>
-<p width="100%" align="center">
-  <a align="center" href="https://github.com/pablobion/omdb" title="omdb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=omdb&theme=vue"></a>
+    <a align="center" href="https://github.com/pablobion/omdb" title="omdb"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=omdb&theme=vue"></a>
   <a align="center" justify="center" href="https://github.com/pablobion/gui-portfolio" title="gui-portfolio"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=gui-portfolio&theme=vue"></a>
 </p>
- 
+
 <br><br>
 
 <h2 align="center">🔧 Technologies & Tools</h2>
