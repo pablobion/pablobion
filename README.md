@@ -13,8 +13,9 @@
 
 
 <br>
-  <details>
-    <summary><h2 align="center">🗃 Repositories</h2></summary>
+  
+    <h2 align="center">🗃 Repositories</h2>
+   <details align="center">
  
 <p width="100%" align="center">
   <a align="center" href="https://github.com/pablobion/weather-react" title="React Weather"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=pablobion&repo=weather-react&theme=vue"></a>
@@ -29,7 +30,7 @@
 <br><br>
 
  <h2 align="center">🔧 Technologies & Tools</h2> 
- <details>
+ <details align="center">
 <br>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->  
@@ -43,10 +44,12 @@
 </details>
 <br> 
 <h2 align="center">📊 My Stats</h2>
+ <details align="center">
 <br><br>
 <p align="center" justify="center" >
     <img  align="center" justify="center" justify="center" src="https://github-readme-stats.vercel.app/api?username=pablobion&show_icons=true&line_height=27&theme=vue"   alt="Martin's GitHub Stats" />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobion&theme=vue" />
 </p>
+   </details>
  
