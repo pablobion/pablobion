@@ -51,6 +51,6 @@
     <img align="center" justify="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablobion&theme=vue" />
 </p>
 
-
-   </details>
  ![](https://komarev.com/ghpvc/?username=pablobion&color=gray)
+   </details>
+
