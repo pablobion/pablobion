@@ -52,7 +52,7 @@
 </p>
     
    <img alt="Github Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=pablobion&theme=buefyk&hide_border=true" title="Github Contributions" />
-</p>
+
 
  ![](https://komarev.com/ghpvc/?username=pablobion&color=gray)
    </details>
